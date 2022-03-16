@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10&layout=compact&hide=rust,go)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **js567/js567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
