@@ -4,6 +4,9 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/js567/js567)](https://badges.pufler.dev)
 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=js567.js567&left_color=green&right_color=red)
+
 <!--
 **js567/js567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
