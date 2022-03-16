@@ -2,12 +2,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&bg_color=45,red,blue&langs_count=6&layout=compact&hide=rust,go,GLSL,shell)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="{https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white}" />
-[![image]({https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white})]
-[![image]({https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white})]
-[![image]({https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white})]
-
-[![image]({https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue})]
 <!--
 **js567/js567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
